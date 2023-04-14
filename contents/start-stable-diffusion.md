@@ -10,7 +10,7 @@ Stable Diffusionを自前環境で実行する。
 ## インストール
 
 最低限おすすめの拡張機能を含めたインストールスクリプトを提示する。
-筆者おすすめのインストールスクリプトは[ここ]((https://gist.github.com/mkaraki/685d8c4e34ce59df5ddaeb95aeaa6e1b))から最新のものを見れる。
+筆者おすすめのインストールスクリプトは[ここ](https://gist.github.com/mkaraki/685d8c4e34ce59df5ddaeb95aeaa6e1b)から最新のものを見れる。
 
 ```
 git clone https://github.com/AUTOMATIC1111/stable-diffusion-webui.git stable-diffusion-webui --depth 1
